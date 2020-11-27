@@ -33,4 +33,4 @@ getline(cin,strword);
 numberrepeat=stringCounter(str,strword);
 
 cout<<strword<< " occurs "<<numberrepeat<< " time(s) in the given string"<<endl;
-}
+cout<<"no";}
